@@ -1,18 +1,18 @@
 {
-  "name": "DORR∆T-BOT-MD",
-  "description": "Subscribete a Diegogameplays82 - Bot (≧▽≦)",
-  "repository": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD",
-  "logo": "https://raw.githubusercontent.com/DIEGO-OFC/DORRAT-BOT-MD/master/Menu2.jpg",
+  "name": "JhanX-Bot-MD",
+  "description": "Ventas JhanX 10K en Tiktok wa.me+50241370839 Bot 24/7",
+  "repository": "https://github.com/JhanX44/DORRAT-TERMUX",
+  "logo": "https://github.com/JhanX44/DORRAT-TERMUX/blob/25d2cbe0117f15343e8a93820faa9d2d4c5151a4/main.js",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
   {
     "url": "heroku/nodejs"
   },
   {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/JhanX44/DORRAT-TERMUX"
   },
   {
-    "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    "url": "https://github.com/JhanX44/DORRAT-TERMUX"
   }    
  ]
 }
