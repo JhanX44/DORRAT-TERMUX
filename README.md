@@ -59,7 +59,7 @@
 - CLONAR EL REPOSITORIO [50241370839](-https://github.com/JhanX44/DORRAT-TERMUX)
 - CAMBIAR NÚMERO DEL OWNER [50241370839](https://github.com/JhanX44/DORRAT-TERMUX/blob/25d2cbe0117f15343e8a93820faa9d2d4c5151a4/main.js)
 
-### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
+### <img src="https://github.com/JhanX44/DORRAT-TERMUX/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 > cd
@@ -72,7 +72,7 @@
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/JhanX44/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> cd JHANX-TERMUX
 > yarn install 
 > npm install
 > npm update
@@ -83,17 +83,17 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd JHANX-TERMUX
 > npm start
 ```
 
-### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/qrcode_30531084_.png" height="30px">
+### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/JhanX44/DORRAT-TERMUX/blob/main/galeria/qrcode_30531084_.png" height="30px">
 
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A DORRAT-TERMUX $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd JHANX-TERMUX
 > rm -rf DORRATSESSION 
 > npm start
 ```
