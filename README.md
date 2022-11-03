@@ -28,7 +28,7 @@
 
 ### `—◉ ❤️BOTS OFICIALES`
 
-<a href="http://wa.me/50241370839" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/+573244488043" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="http://wa.me/50241370839" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.2️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -48,12 +48,12 @@
   
 ### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
 
-[![Run on Repl.it](https://repl.it/badge/github/DIEGO-OFC/DORRAT-BOT-MD)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
+[![Run on Repl.it](https://github.com/JhanX44/DORRAT-TERMUX)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
 > [❗ obligatorio ❗] si vas a instalar en replit edita la carpeta dorrat-inicio.js y ponle index.js
 > Es obligatorio o no funcionará en replit
 
 ### `—◉ 🔮 ACTIVAR EN HEROKU 🔮`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DIEGO-OFC/DORRAT-BOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/JhanX44/DORRAT-TERMUX)
 
 ### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
 - CLONAR EL REPOSITORIO [50241370839](-https://github.com/JhanX44/DORRAT-TERMUX)
